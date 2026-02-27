@@ -12,7 +12,7 @@ Instead of relying on complex geometric pattern recognition, the algorithm lever
 
 ## Results and Interpretation
 
-![TDA Comparison Chart](Patient_B_islands.png)
+![TDA Comparison Chart](plots/Patient_B_islands.png)
 
 The analysis of persistence diagrams for the $H_0$ class (blue dots) clearly differentiates the two cases:
 
