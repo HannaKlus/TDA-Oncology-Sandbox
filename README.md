@@ -13,7 +13,6 @@ Instead of relying on complex geometric pattern recognition, the algorithm lever
 ## Results and Interpretation
 
 ![TDA Comparison Chart](Patient_B_islands.png)
-*(Note: Ensure your image file is named exactly like this and placed in the same directory!)*
 
 The analysis of persistence diagrams for the $H_0$ class (blue dots) clearly differentiates the two cases:
 
@@ -22,7 +21,7 @@ The analysis of persistence diagrams for the $H_0$ class (blue dots) clearly dif
 
 ## Conclusions
 Topological Data Analysis allows for the instant reduction of thousands of cells on a medical scan into single, easily interpretable features on a persistence diagram. Unlike classical visual inspection methods, TDA is fundamentally invariant to translations, rotations, and minor noise in spatial data.
-# Detecting Tumor Relapse Dynamics with TDA 🔬
+# Detecting Tumor Relapse Dynamics with TDA 
 
 ## Project Objective
 This project explores the use of Topological Data Analysis (TDA) to differentiate between a stable biological state and a cyclical tumor relapse. By analyzing the phase space of simulated clinical data, the script translates temporal dynamics into spatial geometry, allowing for the mathematical detection of periodic attractors.
