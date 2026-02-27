@@ -35,7 +35,7 @@ The algorithm analyzes 2D phase portraits using the **Vietoris-Rips Complex**, w
 
 ## Results and Interpretation
 
-![TDA Cycle Detection](Patient_B_circle.png)
+![TDA Cycle Detection](plots/Patient_B_circle.png)
 
 The $H_1$ persistence diagrams (orange dots) provide a clear topological diagnosis:
 
